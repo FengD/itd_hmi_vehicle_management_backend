@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>hirain.itd.hmi</groupId>
 	<artifactId>vehicale_management</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>vehicale_management</name>
 	<description>Demo project for Spring Boot</description>
 
